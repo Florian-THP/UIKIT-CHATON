@@ -258,15 +258,7 @@ pre{
     background-color: blue;
 }
 
-.spacec{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: 200px;
-    width: 600px;
-    border: 3px solid blue;
-    
-}
+
 
 .norad {
     margin-left: auto;
