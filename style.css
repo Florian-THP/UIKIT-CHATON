@@ -257,3 +257,23 @@ pre{
     width: 30px;
     background-color: blue;
 }
+
+.spacec{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 200px;
+    width: 600px;
+    border: 3px solid blue;
+}
+
+.norad {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rad {
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
