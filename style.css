@@ -114,6 +114,8 @@ body {
     display: flex;
     flex-direction: column;
     align-items: end;
+    margin-left: auto;
+    margin-right: auto;
 }
 pre{
     box-sizing: border-box;
