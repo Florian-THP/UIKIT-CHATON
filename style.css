@@ -160,8 +160,7 @@ pre{
     width: auto;
     margin-left: auto;
     margin-right: auto;
-    flex-direction: column;
-
+    flex-direction: column; 
 }
 
 .logodiv {
@@ -189,4 +188,72 @@ pre{
     letter-spacing: -10px;
     color: #8B4421;
     font-weight: 450;
+}
+
+.codediv {
+    margin-left: auto;
+    width: 600px;
+}
+
+.flex {
+    display: flex;
+    height: 200px;
+    width: 600px;
+    border: 3px solid blue;
+}
+
+.carrerouge {
+    height: 150px;
+    width: 150px;
+    border: 2px solid #000000;
+    background-color: red;
+}
+
+.textcode {
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+        align-items: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 100px;
+}
+
+.space {
+    display: flex;
+    justify-content: space-between;
+    height: 200px;
+    width: 600px;
+    border: 3px solid blue;
+}
+
+.centerj {
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    width: 400px;
+    border: 3px solid blue;
+}
+
+.align {
+    display: flex;
+    align-items: center;
+    height: 200px;
+    width: 400px;
+    border: 3px solid blue;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 400px;
+    border: 3px solid blue;
+}
+
+.carrebleu {
+    height: 30px;
+    width: 30px;
+    background-color: blue;
 }
